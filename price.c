@@ -2,9 +2,9 @@
 
 int main() {  
     int price;
-    printf("ÇëÊäÈë½ğ¶î: ");
+    printf("è¯·è¾“å…¥é‡‘é¢: ");
     scanf("%d", &price);
     int change = 1000 - price;
-    printf("ÕÒÁã½ğ¶îÎª: %d\n", change);
+    printf("æ‰¾é›¶é‡‘é¢ä¸º: %d\n", change);
     return 0;
 }
